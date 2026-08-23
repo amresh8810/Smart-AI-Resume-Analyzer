@@ -58,8 +58,7 @@
       <a href="https://www.linkedin.com/in/amresh-kumar-8451162a6/">Amresh Kumar</a>
      </small>
   </p>
-  <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> A Project Submitted for the partial fulfilment of the degree B.tech at 
-    <a href="https://paruluniversity.ac.in/">Mini project</a> during academic year 2025-26
+  <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px">
   </small>
 </div><br/><br/>
 </div>  
