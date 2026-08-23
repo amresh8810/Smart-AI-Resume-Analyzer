@@ -490,7 +490,7 @@ class ResumeApp:
             <p style='text-align: center;'>
                 Powered by <b>Streamlit</b> and <b>Google Gemini AI</b> | Developed by 
                 <a href="https://www.linkedin.com/in/amresh-kumar-8451162a6/" target="_blank" style='text-decoration: none; color: #FFFFFF'>
-                    <b>Het Patel (Hunterdii)</b>
+                    <b>Amresh Kumar</b>
                 </a>
             </p>
             <p style='text-align: center; font-size: 12px; color: #888888;'>
@@ -1168,11 +1168,11 @@ class ResumeApp:
                 <img src="{image_base64 if image_base64 else 'https://avatars.githubusercontent.com/amresh8810'}"
                      alt="Amresh Kumar"
                      class="profile-image"
-                     onerror="this.onerror=null; this.src='https://avatars.githubusercontent.com/Hunterdii';">
-                <h2 class="profile-name">Het Patel (Hunterdii)</h2>
+                     onerror="this.onerror=null; this.src='https://avatars.githubusercontent.com/amresh8810';">
+                <h2 class="profile-name">Amresh Kumar</h2>
                 <p class="profile-title">Full Stack Developer & AI/ML Enthusiast</p>
                 <div class="social-links">
-                    <a href="https://github.com/Hunterdii" class="social-link" target="_blank">
+                    <a href="https://github.com/amresh8810" class="social-link" target="_blank">
                         <i class="fab fa-github"></i>
                     </a>
                     <a href="https://www.linkedin.com/in/amresh-kumar-8451162a6/" class="social-link" target="_blank">
