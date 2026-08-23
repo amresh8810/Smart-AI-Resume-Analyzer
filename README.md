@@ -46,11 +46,11 @@
 </table>
 
   <h4>
-    <a href="https://resumind.streamlit.app/">View Demo</a>
+    <a href="https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/">View Demo</a>
     <span> · </span>
     <a href="#-setup-in-minutes">Set-Up (Installation)</a>
     <span> · </span>
-    <a href="mailto:het8185@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20Smart%20AI-RESUME-ANALYZER%20(2024%20 %2025)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AOrganization%2FCollege%20Name%3A%20%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Project Report</a>
+    <a href="mailto:amreshkumar08797@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20Smart%20AI-RESUME-ANALYZER%20(2024%20 %2025)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AOrganization%2FCollege%20Name%3A%20%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Project Report</a>
   </h4>
   <p>
     <small align="justify">
@@ -66,9 +66,9 @@
 
 ## 🔗 **Helpful Links**
 
-- [![Streamlit Badge](https://img.shields.io/badge/Live%20Demo-Streamlit-orange?style=for-the-badge&logo=streamlit&logoColor=white)](https://resumind.streamlit.app/)  
+- [![Streamlit Badge](https://img.shields.io/badge/Live%20Demo-Streamlit-orange?style=for-the-badge&logo=streamlit&logoColor=white)](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)  
 
-- [![Documentation Badge](https://img.shields.io/badge/Documentation-Request-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:het8185@gmail.com?subject=Request%20Documentation%20for%20Smart%20AI%20Resume%20Analyzer&body=Hi%20Het%20Patel,%0D%0AI%20am%20interested%20in%20learning%20more%20about%20your%20project,%20Smart%20AI%20Resume%20Analyzer.%20Here%20are%20my%20details:%0D%0A%0D%0AName:%0D%0AOrganization/College:%0D%0APurpose%20of%20request:%0D%0A%0D%0AThanks!)  
+- [![Documentation Badge](https://img.shields.io/badge/Documentation-Request-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amreshkumar08797@gmail.com?subject=Request%20Documentation%20for%20Smart%20AI%20Resume%20Analyzer&body=Hi%20Amresh%20Kumar,%0D%0AI%20am%20interested%20in%20learning%20more%20about%20your%20project,%20Smart%20AI%20Resume%20Analyzer.%20Here%20are%20my%20details:%0D%0A%0D%0AName:%0D%0AOrganization/College:%0D%0APurpose%20of%20request:%0D%0A%0D%0AThanks!)  
 
 - [![AI Models Badge](https://img.shields.io/badge/AI%20Models-Documentation-purple?style=for-the-badge&logo=openai&logoColor=white)](AI_MODELS.md)  
 
@@ -100,7 +100,7 @@
 Get real-time feedback, boost your resume's impact, and maximize your chances of getting shortlisted—all with a sleek and intuitive interface.  
 
 ## <img src="https://github.com/user-attachments/assets/e5ac1371-6ac4-48b6-b95c-5ef9afaf1353" width="30"> **Live Demo**  
-👨‍💻 Try it Now: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resumind.streamlit.app/)  
+👨‍💻 Try it Now: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)  
 
 
 ## <img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px">  Tech Stack 
@@ -428,11 +428,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🏠 HOME](https://resumind.streamlit.app/)
+   [🏠 HOME](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
    </b></td>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(Below Example Analysis of Backend Deeveloper)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(Below Example Analysis of Backend Deeveloper)](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
 </b></td>  
 </tr>  
 <tr>  
@@ -442,11 +442,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(Score And Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(Score And Recommendations)](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
    </b></td>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(According To Roles Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(According To Roles Recommendations)](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
    </b></td>  
 </tr>  
 <tr>  
@@ -457,11 +457,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(According To Roles Course Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(According To Roles Course Recommendations)](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
    </b></td>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(Videos Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(Videos Recommendations)](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
    </b></td>  
 </tr>  
 <tr>  
@@ -475,7 +475,7 @@ Join the mission! Here's how:
 </b></td>  
 <td align="center"><b>
    
-   [📊 DASHBOARD](https://resumind.streamlit.app/)
+   [📊 DASHBOARD](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
 </b></td>  
 </tr>  
 <tr>  
@@ -485,11 +485,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🎯 JOB SEARCH](https://resumind.streamlit.app/)
+   [🎯 JOB SEARCH](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
    </b></td>  
 <td align="center"><b>
    
-   [🎯 JOB SEARCH(📊 Job Market Insights & 🏢 Featured Companies)](https://resumind.streamlit.app/)
+   [🎯 JOB SEARCH(📊 Job Market Insights & 🏢 Featured Companies)](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
    </b></td>  
 </tr>  
 <tr>  
@@ -499,11 +499,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [💬 FEEDBACK](https://resumind.streamlit.app/)
+   [💬 FEEDBACK](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
    </b></td>  
 <td align="center"><b>
    
-   [ℹ️ ABOUT](https://resumind.streamlit.app/)
+   [ℹ️ ABOUT](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
    </b></td>  
 </tr>  
 <tr>  
@@ -522,11 +522,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>  
    
-   [🔍 AI Resume Analysis (Custom Job Description)](https://resumind.streamlit.app/)
+   [🔍 AI Resume Analysis (Custom Job Description)](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
    </b></td>  
 <td align="center"><b>  
    
-   [📊 AI Resume Score & Statistics](https://resumind.streamlit.app/)
+   [📊 AI Resume Score & Statistics](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
 </b></td>  
 </tr>  
 
@@ -538,11 +538,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>  
    
-   [📄 AI-Generated PDF Resume Report](https://resumind.streamlit.app/)
+   [📄 AI-Generated PDF Resume Report](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
    </b></td>  
 <td align="center"><b>  
    
-   [📊 AI Resume Analysis Insights](https://resumind.streamlit.app/)
+   [📊 AI Resume Analysis Insights](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
    </b></td>  
 </tr>  
 
@@ -554,11 +554,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>  
    
-   [🔗 LinkedIn Job Scraper (Search Results)](https://resumind.streamlit.app/)
+   [🔗 LinkedIn Job Scraper (Search Results)](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
    </b></td>  
 <td align="center"><b>  
    
-   [🏢 LinkedIn Scraper (Job Listings UI)](https://resumind.streamlit.app/)
+   [🏢 LinkedIn Scraper (Job Listings UI)](https://smart-ai-resume-analyzer-dcwltmns6nadmurdarsr29.streamlit.app/)
    </b></td>  
 </tr>  
 
@@ -595,7 +595,7 @@ Explore the code, contribute, or drop a <img src="https://github.com/user-attach
 ## 🛡️ Maintainer  
 
 > **_This repository is maintained by [amresh8810](https://github.com/amresh8810)._**  
-> Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
+> Have suggestions? Feel free to reach out to [me via email](mailto:amreshkumar08797@gmail.com). 📧
 
 
 ## 📰 News  
@@ -611,7 +611,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | ❤️ **Platform**        | 🌟 **Support Link**                                                                                                                                        |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/amresh8810)                  |
-| **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.buymeacoffee.com/het81857)                 |
+| **LinkedIn**           | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amresh-kumar-8451162a6/)       |
 | **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/amresh8810)                                          |
 
 **Thank you for your support! Every bit helps keep this repository going.** 🌈✨
