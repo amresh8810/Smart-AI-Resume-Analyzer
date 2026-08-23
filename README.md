@@ -572,15 +572,7 @@ Join the mission! Here's how:
 
 > Note: **Time Taking For scraping so have Patience**
 
-## 🎨 **Interactive Resume Templates**  
 
-| ![Modern Template](https://github.com/user-attachments/assets/63a7c783-9903-4e45-bdc7-3bfb41f2606b) | ![Minimal Template](https://github.com/user-attachments/assets/ea1ade65-a726-4c67-a19c-2b29d8ab748e) |  
-|---------------------------------------------------------------------------|-----------------------------------------------------------------------------|  
-| **Modern Template** - Polished & stylish                                  | **Minimal Template** - Clean & elegant                                     |  
-
-| ![Professional Template](https://github.com/user-attachments/assets/003532ae-99ec-41b7-a258-05bf3f97a4cc) | ![Creative Template](https://github.com/user-attachments/assets/0fc2aa14-e24b-473d-964e-2900e49631f1) |  
-|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|  
-| **Professional Template** - Industry-standard                                     | **Creative Template** - Unique & visually appealing                          |  
 
 
 ## 📄 **License**  
