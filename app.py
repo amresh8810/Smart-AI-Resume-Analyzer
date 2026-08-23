@@ -1170,7 +1170,7 @@ class ResumeApp:
                      class="profile-image"
                      onerror="this.onerror=null; this.src='https://avatars.githubusercontent.com/amresh8810';">
                 <h2 class="profile-name">Amresh Kumar</h2>
-                <p class="profile-title">Full Stack Developer & AI/ML Enthusiast</p>
+                <p class="profile-title">Data Analyst & AI Engineering</p>
                 <div class="social-links">
                     <a href="https://github.com/amresh8810" class="social-link" target="_blank">
                         <i class="fab fa-github"></i>
@@ -1183,10 +1183,9 @@ class ResumeApp:
                     </a>
                 </div>
                 <p class="bio-text">
-                    Hello! I'm a passionate Full Stack Developer with expertise in AI and Machine Learning.
-                    I created Smart Resume AI to revolutionize how job seekers approach their career journey.
-                    With my background in both software development and AI, I've designed this platform to
-                    provide intelligent, data-driven insights for resume optimization.
+                    Hello! I'm Amresh Kumar, a Full Stack Developer specializing in AI/ML projects.
+                    I built Smart Resume AI to revolutionize how job seekers approach their career journey
+                    with intelligent, data-driven insights.
                 </p>
             </div>
         """, unsafe_allow_html=True)
