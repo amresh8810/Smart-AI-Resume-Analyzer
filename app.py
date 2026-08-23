@@ -1,4 +1,4 @@
-﻿"""
+"""
 Smart Resume AI - Main Application
 """
 import time
@@ -501,7 +501,8 @@ class ResumeApp:
     def load_image(self, image_name):
         """Load image from static directory"""
         try:
-            image_path = f"c:/Users/shree/Downloads/smart-resume-ai/{image_name}"
+            import os
+            image_path = os.path.join(os.path.dirname(__file__), "assets", image_name)
             with open(image_path, "rb") as f:
                 image_bytes = f.read()
             encoded = base64.b64encode(image_bytes).decode()
